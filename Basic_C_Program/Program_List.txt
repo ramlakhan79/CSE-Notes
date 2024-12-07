@@ -1,0 +1,91 @@
+Q.1  Write a program in java to reverse an integer in C.
+Q.2  Write a program in java to check whether an integer is Armstrong number or not.
+Q.3  Write a program in java to check given number is prime or not.
+Q.4  Write a program in java to print the Fibonacci series using iteration.
+Q.5  Write a program in java to print the Fibonacci series using recursion.
+Q.6  Write a program in java to check whether a number is palindrome or not using iteration.
+Q.7  Write a program in java to check whether a number is palindrome or not using recursion.
+Q.8  Write a program in java to find greatest among three integers.
+Q.9  Write a program in java to check if a number is binary.
+Q.10 Write a program in java to find sum of digits of a number using recursion.
+Q.11 Write a program in java to swap two numbers without using third variable.
+Q.12 Write a program in java to swap two numbers using third variable.
+Q.13 Write a program in java to find prime factors of a given integer.
+Q.14 Write a program in java to add two integer without using arithmetic + operator.
+Q.15 Write a program in java to check given number is perfect or not.
+Q.16 Write a program in java to find the Average of numbers with explanations.
+Q.17 Write a program in java to calculate factorial using iterative method.
+Q.18 Write a program in java to calculate factorial using recursion
+Q.19 Write a program in java to check a given number is even or odd.
+Q.20 Write a program in java to print first n Prime Number with explanation.
+Q.21 Write a program in java to print Prime Number in a given range
+Q.22 Write a program in java to find Smallest number among three.
+Q.23 Write a program in java to calculate the power using the POW method.
+Q.24 Write a program in java to calculate the power without using POW function.
+Q.25 Write a program in java to calculate the square of a given number.
+Q.26 Write a program in java to calculate the cube of a given number
+Q.27 Write a program in java to calculate the square root of a given number.
+Q.28 Write a program in java to calculate LCM of given two numbers.
+Q.29 Write a program in java to find GCD or HCF of two numbers.
+Q.30 Write a program in java to find GCD of two numbers using recursion.
+Q.31 Write a program in java to Convert Decimal Number into Binary.
+Q.32 Write a program in java to convert Decimal number to Octal number.
+Q.33 Write a program in java to check the given year is a leap year or not.
+Q.34 Write a Program in java to convert Celsius to Fahrenheit.
+Q.35 Write a Program in java to convert Fahrenheit to Celsius.
+Q.36 Write a program in java to calculate Simple Interest with explanation.
+Q.37 Write a program in java to which will remove any given character from a String.
+Q.38 Write a program in java to count occurrence of a given character in a String.
+Q.39 Write a program in java to check if two Strings are Anagram.
+Q.40 Write a program in java to check a String is palindrome or not.
+Q.41 Write a program in java to check given character is vowel or consonant.
+Q.42 Write a program in java to check given character is digit or not.
+Q.43 Write a program in java to replace the string space with a given character.
+Q.44 Write a program in java to convert lowercase char to uppercase of string.
+Q.45 Write a program in java to convert lowercase vowel to uppercase in string.
+Q.46 Write a program in java to delete vowels in a given string.
+Q.47 Write a program in java to count Occurrence Of Vowels & Consonants in a String.
+Q.48 Write a program in java to print the highest frequency character in a String.
+Q.49 Write a program in java to Replace First Occurrence Of Vowel With ‘-‘ in String.
+Q.50 Write a program in java to count alphabets, digits and special characters.
+Q.51 Write a program in java to separate characters in a given string.
+Q.52 Write a program in java to remove blank space from string.
+Q.53 Write a program in java to remove blank space from string.
+Q.54 Write a program in java to concatenate two strings.
+Q.55 Write a program in java to remove repeated character from string.
+Q.56 Write a program in java to calculate sum of integers in string.
+Q.57 Write a program in java to print all non repeating character in string.
+Q.58 Write a program in java to copy one string to another string.
+Q.59 Write a Program in java to sort characters of string.
+Q.60 Write a Program in java to sort character of string in descending order
+Q.61 Write a program in java for, In array 1-100 numbers are stored, one number is missing how do you find it.
+Q.62 Write a program in java for, In a array 1-100 multiple numbers are duplicates, how do you find it.
+Q.63 Write a program in java to find first duplicate number in a given array.
+Q.64 Write a program in java to remove duplicate elements form array in C.
+Q.65 Write a program in java for, Given two arrays 1,2,3,4,5 and 2,3,1,0,5 find which number is not present in the second array.
+Q.66 Write a program in java for, How to compare two array is equal in size or not.
+Q.67 Write a program in java to find largest and smallest number in array.
+Q.68 Write a program in java to find second highest number in an integer array.
+Q.69 Write a program in java to find top two maximum number in array?
+Q.70 Write a program in java to print array in reverse Order.
+Q.71 Write a program in java to reverse an Array in two ways.
+Q.72 Write a Program in java to calculate length of an array.
+Q.73 Write a program in java to insert an element at end of an Array.
+Q.74 Write a program in java to insert element at a given location in Array.
+Q.75 Write a Program in java to delete element at end of Array.
+Q.76 Write a Program in java to delete given element from Array.
+Q.77 Write a Program in java to delete element from array at given index.
+Q.78 Write a Program in java to find sum of array elements.
+Q.79 Write a Program in java to print all even numbers in array.
+Q.80 Write a Program in java to print all odd numbers in array.
+Q.81 Write a program in java to perform left rotation of array elements by two positions.
+Q.82 Write a program in java to perform right rotation in array by 2 positions.
+Q.83 Write a Program in java to merge two arrays.
+Q.84 Write a Program in java to find highest frequency element in array.
+Q.85 Write a Program in java to add two number using recursion.
+Q.86 Write a Program in java to find sum of digit of number using recursion.
+Q.87 Write a program in java to reverse a singly linked list.
+Q.88 Write a program in java to find 3rd element of Linked List from last in single pass.
+Q.89 Write a program in java to find middle element of a linked list in single pass.
+Q.90 Write a program in java to implement Insertion Sort.
+Q.91 Write a program in java to implement Bubble Sort.
